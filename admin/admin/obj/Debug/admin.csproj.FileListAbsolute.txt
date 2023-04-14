@@ -1,0 +1,7 @@
+D:\oop\week2\admin\admin\bin\Debug\admin.exe.config
+D:\oop\week2\admin\admin\bin\Debug\admin.exe
+D:\oop\week2\admin\admin\bin\Debug\admin.pdb
+D:\oop\week2\admin\admin\obj\Debug\admin.csproj.AssemblyReference.cache
+D:\oop\week2\admin\admin\obj\Debug\admin.csproj.CoreCompileInputs.cache
+D:\oop\week2\admin\admin\obj\Debug\admin.exe
+D:\oop\week2\admin\admin\obj\Debug\admin.pdb
